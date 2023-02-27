@@ -13,4 +13,4 @@ The concept of the game was taken from a game called "Seal Hunter" where you hav
 The players can upgrade their arsenal to deal with better threats as the game goes on. If the players manage to survive for 10 full waves, they win. Albeit the game seems simple,
 the players have to move like a tank which means you can only move forward and backwards while side-directional inputs serve as rotating the tank to move in other directions.
 
-A blast from the past can be visited here: [Demp Video](https://youtu.be/kAisYC_uJAc)
+A blast from the past can be visited here: [Demo Video](https://youtu.be/kAisYC_uJAc)
